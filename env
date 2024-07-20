@@ -1,0 +1,2 @@
+WRITER_DB_URL=root@tcp(writer_db:3306)/sample_writer_db?parseTime=True&loc=Local
+READER_DB_URL=root@tcp(reader_db:3306)/sample_reader_db?parseTime=True&loc=Local
